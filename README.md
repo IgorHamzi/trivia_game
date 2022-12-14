@@ -2,6 +2,9 @@
 
 Projeto jogo de trivia, desenvolvido em grupo. O objetivo é consolidar os conhecimentos de React e Redux até o momento,enquanto é praticado a organização de um projeto em equipe com a metodologia agile Kanban .
 
+---
+## Screenshot
+
 ![App Screenshot](https://user-images.githubusercontent.com/42968718/154859467-1ed4bd0b-694f-4415-a365-2bfd0464a5a6.png)
 
 ## :rocket: Stack utilizada
@@ -34,6 +37,17 @@ Neste projeto foi desenvolvido um jogo de perguntas onde é acumulado pontos no 
 * Responder as perguntas dentro do tempo permitido;
 * Visualizar qual a resposta correta;
 * Acumular pontuação e ver o ranking ao final do game;
+
+---
+
+## Autores
+
+- [@FabricioCSM](https://github.com/FabricioCSM) - Fabricio Martins
+- [@Gabriel-Araujo11](https://github.com/Gabriel-Araujo11) - Gabriel Araujo
+- [@IgorHamzi](https://github.com/IgorHamzi) - Igor Hamzi
+- [@eemr3](https://github.com/eemr3) - Emerson Moreira
+
+---
 
 ## Rodando localmente
 
